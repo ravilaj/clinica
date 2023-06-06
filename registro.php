@@ -7,7 +7,7 @@
     <title>Registro</title>
     <link rel="shortcut icon" href="img/logo-R.png">
     <link rel="stylesheet" href="css/style_lo.css">
-    <script src="javascript/co.js"></script>
+    <script src="co.js"></script>
     
 
 </head>
