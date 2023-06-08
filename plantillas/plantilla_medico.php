@@ -29,7 +29,6 @@ function cabecera ($titulo){
     echo '
                                 </a>
                                 <ul>
-                                    <li><a href="perfil.php">Perfil</a></li>
                                     <li><a href="controlador_cerrar.php" id="cerrar">Cerrar Sesion</a></li>
                                 </ul>
                             </li>
